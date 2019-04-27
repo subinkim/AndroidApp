@@ -1,0 +1,38 @@
+{   "goblet_squat": [
+        "Goblet squat",
+        "1. Hold a weight at your chest using both of your hands. \n2. Stand with your feet about hip-width apart. \n3. Brace your core and drop your butt back and down to lower into a squat while keeping your chest up. \n4. As you squat, sit back into your heels without shifting your weight forward onto the balls of your feet. \n5. Driving through your heels, come back up to standing. \nSource: https://www.health.com/fitness/goblet-squats",
+        "gsimg",
+        "gs"
+    ],
+    "bench_press" : [
+        "Dumbbell bench press",
+        "1. Pick up the dumbbells off the floor using a neutral grip (palms facing in). Position the ends of the dumbbells in your hip crease, and sit down on the bench. \n2. To get into position, lay back and keep the weights close to your chest. Once you are in position, take a deep breath, and press the dumbbells to lockout at the top. \n3. Slowly lower the dumbbells under control as far as comfortably possible (the handles should be about level with your chest). \n4. Contract the chest and push the dumbbells back up to the starting position. \n5. Repeat for the desired number of repetitions. \nSource: https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html",
+        "bpimg",
+        "bp"
+    ],
+    "split_squat" : [
+        "Split squat",
+        "1. Stand with hands on hips. Position feet far apart; one foot forward and other foot behind. \n2. Squat down by flexing knee and hip of front leg. \n3. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. \n4. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg. \nSource: https://exrx.net/WeightExercises/Quadriceps/BWSplitSquat",
+        "ssimg",
+        "ss"
+    ],
+    "trx_row" : [
+        "TRX Row",
+        "1. Shorten the TRX straps all the way up. \n2. Set your body in a straight line, as if you were in a vertical plank position. \n3. While keeping your arms straight, walk your feet forward until there is tension in the straps. This is the starting position. \n4. Make sure to keep your palms facing each other throughout the lift. \n5. To begin the movement, retract your shoulder blades back and down. \n6. Now, pull your torso towards your hands keeping your elbows close to your body. \n7. Your body should remain rigid and your palms and wrists should stay neutral. \n8. Lower your body back to the starting position and repeat. \nSource: https://www.popworkouts.com/trx-row-exercise/",
+        "trimg",
+        "tr"
+    ],
+    "plank" : [
+        "Plank",
+        "1. Get in the pushup position, only put your forearms on the ground instead of your hands. Your elbows should line up directly underneath your shoulders. Toes on the ground. \n2. Squeeze your glutes and tighten your abdominals. \n3. Keep a neutral neck and spine. \n4. Create a straight, strong line from head to toes – a plank, if you will. \n5. Hold that position. \nSource: https://www.marksdailyapple.com/how-to-proper-plank-technique/",
+        "plimg",
+        "pl"
+    ],
+    "bicycle_crunches" : [
+        "Bicycle crunches",
+        "1. Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n2. Put your hands behind your head, then bring your knees in towards your chest and lift your shoulder blades off the ground, but be sure not to pull on your neck. \n3. Straighten your right leg out to about a 45-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee. Make sure your rib cage is moving and not just your elbows. \n4. Now switch sides and do the same motion on the other side to complete one rep. \nSource: https://www.popsugar.com/fitness/How-Do-Bicycle-Crunches-958400",
+        "bcimg",
+        "bc"
+    ]
+}
+

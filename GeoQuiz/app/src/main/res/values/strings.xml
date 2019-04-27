@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name = "r0">Canberra is the capital of Australia.</string>
+    <string name = "r1">Thimpu is the capital of Armenia.</string>
+    <string name = "r2">Praia is the capital of Cameroon.</string>
+    <string name = "r3">Brazzaville is the capital of Republic of the Congo.</string>
+    <string name = "r4">Nicosia is the capital of Cuba.</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="correctToast">Correct!</string>
+    <string name="incorrectToast">Incorrect!</string>
+
+</resources>
+
+
+
+

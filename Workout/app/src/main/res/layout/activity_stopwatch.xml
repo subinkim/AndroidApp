@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingBottom="90dp">
+
+        <TextView
+            android:text="00:00:00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTimer"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginTop="120dp"
+            android:paddingBottom="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvTimer"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="41dp"
+            android:background="#000000"
+            android:text="Start"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:text="Pause"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pause"
+            android:layout_alignBaseline="@+id/start"
+            android:layout_alignBottom="@+id/start"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/pause"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="#000000"
+            android:text="Reset"
+            android:textColor="#ffffff" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

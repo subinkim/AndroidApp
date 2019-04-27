@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your Homework</string>
+
+    <string-array name="spinnerItems">
+        <item>Math</item>
+        <item>English</item>
+        <item>Elective</item>
+        <item>Science</item>
+        <item>2nd Language</item>
+    </string-array>
+</resources>
+
